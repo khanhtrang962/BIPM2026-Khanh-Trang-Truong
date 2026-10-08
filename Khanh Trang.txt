@@ -1,0 +1,86 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+ <meta charset="UTF-8">
+ <title> Khanh Trang Truong</title>
+</head>
+<body style="margin: 0; font-family: Arial, sans-serif; background-color: #fbf4e9;">
+
+ <div style="background-color: #fad4a6; color: black; text-align: center; padding: 40px 20px;">
+   <h1 style="margin: 10px 0; font-size: 40px;">KHANH TRANG TRUONG</h1>
+   <p style="margin: 5px 0; font-size: 20px; color: #4e342e;">Master student in Business Intelligence and Process Management</p>
+   <p style="margin: 5px 0; font-size: 20px; color: #4e342e;">Berlin School of Economics and Law</p>
+  </div>
+
+  <div style="background-color: white; width: 1000px; margin: 30px auto; padding: 20px; border-top: 6px solid #fad4a6; border-radius: 24px; box-shadow: 0 8px 24px rgba(0, 0, 0, 0.08);">
+    <h2 style="margin: 10px 0; font-size: 40px; text-align: center">Where I'm From</h2>
+    <p style="margin: 5px 0 20px; font-size: 18px; color: #4e342e; text-align: center">I was born and grew in Danang city, Vietnam - One of the most livable cities in the world</p>
+    <div style="display: flex; justify-content: center; gap: 16px;">
+         <img src="Danang-1.jpg" alt="Da Nang 1" width="260" height="220" style="border: 3px solid #fad4a6; border-radius: 16px; object-fit: cover; object-position: center 65%;">
+         <img src="Danang-2.jpg" alt="Da Nang 2" width="260" height="220" style="border: 3px solid #fad4a6; border-radius: 16px; object-fit: cover; object-position: center 65%;">
+         <img src="Danang-3.jpg" alt="Da Nang 3" width="260" height="220" style="border: 3px solid #fad4a6; border-radius: 16px; object-fit: cover; object-position: center 65%;">    
+         </div>
+    </div>
+        
+   <div style="background-color: white; width: 1000px; margin: 30px auto; padding: 20px; border-top: 6px solid #fad4a6; border-radius: 24px; box-shadow: 0 8px 24px rgba(0, 0, 0, 0.08);">
+    <h2 style="margin: 10px 0; font-size: 40px; text-align: center">What Is My Hobby</h2>
+    <p style="max-width: 810px; margin: 5px auto 20px; font-size: 18px; color: #4e342e; text-align: center">I love reading, listening to music, traveling, and sometimes just hanging out by myself — whether it’s grabbing a coffee, taking a walk around the city, or simply enjoying some me-time. And I’m totally in love with pets — I can never say no to a cute furry friend!</p>    
+   <div style="display: flex; justify-content: center; gap: 16px;"> 
+         <img src="Hobby-1.jpg" alt="Hobby 1" width="260" height="220" style="border: 3px solid #fad4a6; border-radius: 16px; object-fit: cover; object-position: center 65%;">
+         <img src="Hobby-2.jpg" alt="Hobby 2" width="260" height="220" style="border: 3px solid #fad4a6; border-radius: 16px; object-fit: cover; object-position: center 65%;">
+         <img src="Hobby-3.jpg" alt="Hobby 3" width="260" height="220" style="border: 3px solid #fad4a6; border-radius: 16px; object-fit: cover; object-position: center 65%;">    
+    </div>
+    
+    <div style="display: flex; justify-content: center; gap: 16px; margin-top: 16px;">
+         <img src="Hobby-4.jpg" alt="Hobby 4" width="260" height="220" style="border: 3px solid #fad4a6; border-radius: 16px; object-fit: cover; object-position: center 65%;">
+         <img src="Hobby-5.jpg" alt="Hobby 5" width="260" height="220" style="border: 3px solid #fad4a6; border-radius: 16px; object-fit: cover; object-position: center 65%;">    
+    </div>
+</div>
+
+    <div style="background-color: white; width: 1000px; margin: 30px auto; padding: 20px; border-top: 6px solid #fad4a6; border-radius: 24px; box-shadow: 0 8px 24px rgba(0, 0, 0, 0.08);">
+    <h2 style="margin: 10px 0; font-size: 40px; text-align: center">My Academic & Professional Journey</h2>
+    <table style="width: 100%; margin: 0 auto; border-collapse: collapse;" border: 1px solid #fad4a6; border-radius: 24px;">
+      <tr style="background-color: #fad4a6; color: black;">
+        <th style="padding: 10px; text-align: left;">Universities/ Companies</th>
+        <th style="padding: 10px; width: 150px;">Time</th>
+      </tr>
+      <tr>
+        <td style="padding: 10px; vertical-align: top;">
+          <p style="font-size: 20px; font-weight: bold; color: #fad4a6; margin: 0 0 8px 0;">University of Economics - University of Danang</p>
+          <p style="font-size: 14px; margin: 4px 0;">Bachelor's Degree in E-Commerce</p>
+          <p style="font-size: 14px; margin: 4px 0;">Danang city, Vietnam</p>
+        </td>
+        <td style="padding: 10px; text-align: center; vertical-align: top; font-weight: bold;">09/2020 - 07/2024</td>
+      </tr>
+      
+      <tr>
+        <td style="padding: 10px; vertical-align: top;">
+          <p style="font-size: 20px; font-weight: bold; color: #fad4a6; margin: 0 0 8px 0;">FPT Software</p>
+          <p style="font-size: 14px; margin: 4px 0;">Business Analyst Intern</p>
+          <p style="font-size: 14px; margin: 4px 0;">Danang city, Vietnam</p>
+        </td>
+        <td style="padding: 10px; text-align: center; vertical-align: top; font-weight: bold;">01/2024 - 04/2024</td>
+      </tr>
+
+      <tr>
+        <td style="padding: 10px; vertical-align: top;">
+          <p style="font-size: 20px; font-weight: bold; color: #fad4a6; margin: 0 0 8px 0;">PVOIL Lube</p>
+          <p style="font-size: 14px; margin: 4px 0;">Sales Specialist</p>
+          <p style="font-size: 14px; margin: 4px 0;">Danang city, Vietnam</p>
+        </td>
+        <td style="padding: 10px; text-align: center; vertical-align: top; font-weight: bold;">09/2024 - 09/2026</td>
+      </tr>
+
+      <tr>
+        <td style="padding: 10px; vertical-align: top;">
+          <p style="font-size: 20px; font-weight: bold; color: #fad4a6; margin: 0 0 8px 0;">HWR Berlin</p>
+          <p style="font-size: 14px; margin: 4px 0;">Master's Degree in Business Intelligence and Process Management</p>
+          <p style="font-size: 14px; margin: 4px 0;">Berlin, Germany</p>
+        </td>
+        <td style="padding: 10px; text-align: center; vertical-align: top; font-weight: bold;">10/2026 - Now</td>
+      </tr>
+    </table>
+  </div>
+
+  <div style="background-color: white; width: 1000px; margin: 30px auto; padding: 20px; border-top: 6px solid #fad4a6; border-radius: 24px; box-shadow: 0 8px 24px rgba(0, 0, 0, 0.08);">
+    <h2 style="margin: 10px 0; font-size: 40px; text-align: center">My Journey Map</h2>
