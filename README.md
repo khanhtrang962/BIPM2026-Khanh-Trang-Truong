@@ -1,2 +1,0 @@
-# khanhtrangtruong
-About me
